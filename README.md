@@ -22,7 +22,6 @@ A responsive real estate agency landing page built with HTML5 and CSS3. One of m
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
 
 ## 🏃‍♂️ Running Locally
 ```bash
